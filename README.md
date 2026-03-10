@@ -1,4 +1,4 @@
-## Soy programador
+## Soy Developer
 Lenguajes aprendidos hasta el momento:
 - Python
 - C#
